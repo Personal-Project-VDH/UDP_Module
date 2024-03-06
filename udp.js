@@ -1,7 +1,7 @@
 import dgram from "react-native-udp";
 import { Buffer } from "buffer";
 
-const LOCAL_PORT = 23122;
+const LOCAL_PORT = xxxxx; // port to boardcast
 const MODULE_IP = "255.255.255.255";
 
 export class UDP_SERVER {
